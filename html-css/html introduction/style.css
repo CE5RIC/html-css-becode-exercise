@@ -1,0 +1,17 @@
+body {
+    max-width: 500px;
+    margin: auto;
+    background-color: rgb(18, 120, 189);
+    color: rgba(240, 190, 98, 0.884);
+    font-family: fantasy;
+}
+
+
+table {
+
+    width: auto;
+    border: 1px solid rgba(240, 190, 98, 0.884);
+  }
+  
+  
+
